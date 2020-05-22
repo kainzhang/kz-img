@@ -1,0 +1,7 @@
+{
+    "schedule": "monthly", // daily|weekly|monthly
+    "ignoredFiles": [
+        "blog/common/*",
+    ],
+    "aggressiveCompression": "false", // true|false
+}
